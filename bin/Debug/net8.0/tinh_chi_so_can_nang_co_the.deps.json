@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tinh_chi_so_can_nang_co_the/1.0.0": {
+        "runtime": {
+          "tinh_chi_so_can_nang_co_the.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tinh_chi_so_can_nang_co_the/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
